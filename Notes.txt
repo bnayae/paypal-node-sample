@@ -1,0 +1,4 @@
+- npm init
+- npm i -S paypal-rest-sdk express ejs
+- npm i -g nodemon
+- npm i -S dotenv
